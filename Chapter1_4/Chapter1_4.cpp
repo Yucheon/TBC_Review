@@ -18,8 +18,7 @@ int main()
 	cout << "ab" << "\t" << "cdef" << endl;
 		
 	cout << "\a";										//경고음 출력
-
-	int x;		
+	
 
 	cout << "Before your input, x was" << x << endl;	//스트림의 일부에 불과할 뿐인 cout과 cin, 오퍼레이터오버로딩에서 파일 입출력과 네트워킹에 다시 사용
 	cin >> x;							//cin 입력을 받아서 어딘가에 저장한다는 의미를 가지기도 함, input operator
