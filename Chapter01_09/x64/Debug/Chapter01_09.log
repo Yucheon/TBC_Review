@@ -1,0 +1,2 @@
+﻿  Chapter01_09.cpp
+D:\Review_TBC\TBC_Review\Chapter01_09\Chapter01_09.cpp(1,10): fatal  error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Chapter01_09.pch': No such file or directory
