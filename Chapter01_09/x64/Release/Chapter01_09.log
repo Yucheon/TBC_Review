@@ -1,2 +1,6 @@
 ﻿  Chapter01_09.cpp
-D:\Review_TBC\TBC_Review\Chapter01_09\Chapter01_09.cpp(1,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Chapter01_09.vcxproj -> D:\Review_TBC\TBC_Review\x64\Release\Chapter01_09.exe
