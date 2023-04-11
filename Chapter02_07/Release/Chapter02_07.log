@@ -1,7 +1,8 @@
 ﻿  Chapter02_07.cpp
+D:\tortoise\TBC_Review\Chapter02_07\Chapter02_07.cpp(51,11): warning C4101: 'c3' :참조되지 않은 지역 변수입니다.
+D:\tortoise\TBC_Review\Chapter02_07\Chapter02_07.cpp(50,10): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
   코드를 생성하고 있습니다.
-  0 of 25 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   코드를 생성했습니다.
-  Chapter02_07.vcxproj -> D:\TBC_Review\Release\Chapter02_07.exe
+  Chapter02_07.vcxproj -> D:\tortoise\TBC_Review\Release\Chapter02_07.exe
