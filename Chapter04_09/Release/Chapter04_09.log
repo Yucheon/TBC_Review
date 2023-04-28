@@ -1,0 +1,8 @@
+﻿  Chapter04_09.cpp
+D:\TBC_Review\Chapter04_09\Chapter04_09.cpp(17,13): warning C4101: 'home2work' :참조되지 않은 지역 변수입니다.
+D:\TBC_Review\Chapter04_09\Chapter04_09.cpp(16,10): warning C4101: 'my_distance' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Chapter04_09.vcxproj -> D:\TBC_Review\Release\Chapter04_09.exe
