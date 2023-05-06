@@ -1,7 +1,6 @@
 ﻿  Chapter06_04.cpp
   코드를 생성하고 있습니다.
-  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   코드를 생성했습니다.
-  Chapter06_04.vcxproj -> D:\TBC_Review\Release\Chapter06_04.exe
+  Chapter06_04.vcxproj -> D:\tortoise\TBC_Review\Release\Chapter06_04.exe
