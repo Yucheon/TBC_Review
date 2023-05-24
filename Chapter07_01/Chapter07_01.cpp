@@ -18,4 +18,4 @@ int main()
 	foo(x, y + 1);	//1과 3이라는 값이 argument
 
 	return 0;
-}
+} 
